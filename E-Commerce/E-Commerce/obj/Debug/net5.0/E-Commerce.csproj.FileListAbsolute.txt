@@ -1,0 +1,16 @@
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net5.0\E-Commerce.exe
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net5.0\E-Commerce.deps.json
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net5.0\E-Commerce.runtimeconfig.json
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net5.0\E-Commerce.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net5.0\E-Commerce.dll
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net5.0\ref\E-Commerce.dll
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\bin\Debug\net5.0\E-Commerce.pdb
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net5.0\E-Commerce.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net5.0\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net5.0\E-Commerce.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net5.0\E-Commerce.AssemblyInfo.cs
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net5.0\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net5.0\E-Commerce.dll
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net5.0\ref\E-Commerce.dll
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net5.0\E-Commerce.pdb
+C:\Users\S S INFOTECH\Desktop\E-Commerce\E-Commerce\E-Commerce\obj\Debug\net5.0\E-Commerce.genruntimeconfig.cache
